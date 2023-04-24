@@ -10,12 +10,19 @@ h1{
     text-align: center;
 }
 .img-cabeçalho{
-    min-height: 300px;
+ 
+    height: 300px;
 }
 .item-cabeçalho{
+    display: inline-block;
     color: aliceblue;
+    margin: 50px;
+    font-size: 30px;
+    
+
 }
 .cabeçalho{
     display: flex;
+    justify-content: space-between;
 
 }
