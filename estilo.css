@@ -18,11 +18,17 @@ h1{
     color: aliceblue;
     margin: 50px;
     font-size: 30px;
-    
+    padding: 50px;
 
 }
 .cabeçalho{
     display: flex;
     justify-content: space-between;
 
+}
+p{
+color: whitesmoke;
+}
+h2{
+    color: aliceblue;
 }
