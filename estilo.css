@@ -32,3 +32,15 @@ color: whitesmoke;
 h2{
     color: aliceblue;
 }
+.imagem-principal{
+    width: 400px;
+}
+.principal{
+    display: flex;
+    justify-content: center;
+    
+}
+.div-principal{
+    width: 60%;
+
+}
